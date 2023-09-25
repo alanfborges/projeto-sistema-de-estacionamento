@@ -1,0 +1,5 @@
+com.alandev.estacionamento.apresentacao
+com.alandev.estacionamento.controle
+com.alandev.estacionamento.negocio
+com.alandev.estacionamento.persistencia
+com.alandev.estacionamento.utilitario
