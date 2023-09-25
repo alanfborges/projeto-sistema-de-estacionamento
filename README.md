@@ -6,18 +6,21 @@ O projeto propõe automatizar o processo de registro das movimentações realiza
 Além desse registro propõe-se também a geração de relatório de faturamento num determinado período.
 
 ## Layout desktop
-![telalogin](https://github.com/alanfborges/projeto-estacionamento/assets/88783798/038b9acb-45d5-41fa-8d6e-ca896b36c137)
-![telaentradasaida](https://github.com/alanfborges/projeto-estacionamento/assets/88783798/7b45e9dd-8a1d-4c5a-888f-145d38c76800)
-![resumorelatorio](https://github.com/alanfborges/projeto-estacionamento/assets/88783798/2963ffa4-f953-45a7-96c0-a117a98cf494)
+![telalogin](https://github.com/alanfborges/projeto-sistema-de-estacionamento/assets/88783798/041eed81-9539-4a48-8110-9a4affad970f)
 
+![telaentradasaida](https://github.com/alanfborges/projeto-sistema-de-estacionamento/assets/88783798/9e93e541-347d-4b23-972f-6155e01133cd)
+
+![resumorelatorio](https://github.com/alanfborges/projeto-sistema-de-estacionamento/assets/88783798/20779834-634d-49e5-ac53-5beb34764b1e)
 
 
 ## Diagrama de Classes
-![Diagrama de classes (3)](https://github.com/alanfborges/projeto-estacionamento/assets/88783798/8cf7fc69-b094-4649-9c15-dbda99613410)
+![Diagrama de classes (3)](https://github.com/alanfborges/projeto-sistema-de-estacionamento/assets/88783798/7631766a-91d9-4067-a31f-a1525d5d44fd)
+
 
 
 ## Diagrama Entidade Relacionamento
-![deigrama-er](https://github.com/alanfborges/projeto-estacionamento/assets/88783798/d2835e20-71b1-4dc4-845c-d3fb21cfa6d2)
+![deigrama-er](https://github.com/alanfborges/projeto-sistema-de-estacionamento/assets/88783798/093f798b-3f63-4022-8dd3-2937990c13d2)
+
 
 # Tecnologias utilizadas
 - Java
