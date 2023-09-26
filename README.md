@@ -1,5 +1,5 @@
 # Sistema Rotativo de Estacionamento
-Projeto com fins didáticos , apenas para aprendizagem..
+Projeto com fins didáticos.
 
 ## Sobre o projeto
 O projeto propõe automatizar o processo de registro das movimentações realizadas no estacionamento, bem como o cálculo do valor a pagar pela estadia de um veículo.
